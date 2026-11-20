@@ -1,0 +1,3 @@
+Hidden WKWebView selection and bridge check ["Sample checkout",true,"undefined","undefined",false,null]
+Native trusted selection {"ariaDisabled":false,"disabled":false,"display":"flex","hidden":false,"path":[{"index":1,"tag":"html"},{"index":1,"tag":"body"},{"index":1,"tag":"main"},{"index":1,"tag":"button"}],"pointerEvents":"auto","position":"fixed","visibility":"visible"}
+PASS: hidden WKWebView loaded a loopback page, exposed no Tauri bridge, ignored a synthetic click, captured a native button press and blocked cross-origin navigation.
